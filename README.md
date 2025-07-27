@@ -32,7 +32,7 @@ You will need `make` and a C compiler like `gcc` installed on your system to bui
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/minishell.git
+    git clone https://github.com/your-username/minishell.git](https://github.com/Selvam-T/42_mini_shell.git
     ```
 
 2.  **Navigate to the project directory:**
